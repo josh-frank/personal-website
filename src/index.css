@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "Early GameBoy Regular";
+  src: local( "Early GameBoy Regular" ), url( ./assets/fonts/EarlyGameBoy.ttf ) format( "truetype" );
+}

@@ -1,0 +1,8 @@
+.logo, .header{
+  font-family: "Early GameBoy Regular";
+}
+
+.logo {
+  font-size: 3rem;
+  padding: 1rem;
+}
